@@ -435,7 +435,7 @@ while True:
             clear()
             tabelKaryawan = PrettyTable(["EmployeeID", "Name", "HireDate", "Department", "Position", "Salary", "Status"])
             x[0] = ''
-            deleteMenu = input('Please select menu [1-2]: ')
+            deleteMenu = input('Please select menu [1-3]: ')
             if deleteMenu == '1':
                 selectColumn = input('Search by [EmployeeID/Name]: ')
                 if selectColumn == 'EmployeeID':
