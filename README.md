@@ -1,4 +1,4 @@
-# PWDK_Project_Capstone
+# PWDK_Simple_CRUD_Application
 The following is a Capstone assignment with the theme Employee Data given to me by Purwadhika Digital Technology School.  In this task I made a simple program about employee data at a company, where there is a CRUD (Create, Read, Update, and Delete) feature in the program.
 
 In the Read feature, I created a program so that it can read all employee lists, all unique data in the Department and Position columns, and the list of employees you want to search according to the specifications needed (ex: employees with a certain salary, employees in a certain department/position, or employees with a specific name).
